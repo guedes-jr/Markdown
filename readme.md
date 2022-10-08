@@ -112,7 +112,7 @@ Como aparece no HTML:
 
 Há dois modos de adicionar trechos de código ao Markdown:
 
-- **Código em linha** (_inline_): adicione um acento grave ` ` ` no início e no final do código.
+- **Código em linha** (_inline_): adicione um acento grave `  `  ` no início e no final do código.
 - **Múltiplas linhas de código**: envolva as linhas de código com três acentos graves ` ``` ` ou três tils `~~~`.
 
 ```
