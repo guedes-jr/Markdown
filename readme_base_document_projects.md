@@ -29,7 +29,6 @@
 - [Funcionalidades](#-funcionalidades)
 - [Requisitos](#-requisitos)
 - [Instalação](#-instalação)
-- [Uso](#-uso)
 - [Scripts Disponíveis](#-scripts-disponíveis)
 - [Estrutura de Pastas](#-estrutura-de-pastas)
 - [Contribuindo](#-contribuindo)
