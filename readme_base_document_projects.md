@@ -24,7 +24,7 @@
 
 ## 📝 Sumário
 
-- [Sobre o Projeto](#--sobre-o-projeto)
+- [Sobre o Projeto](#%EF%B8%8F-sobre-o-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Funcionalidades](#funcionalidades)
 - [Requisitos](#requisitos)
