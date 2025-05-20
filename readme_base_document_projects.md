@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario/seu-repositorio">
+  <a href="https://github.com/guedes-jr/[repositories]">
     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/guedes-jr/[repositories]">
   </a>
   <a href="https://github.com/guedes-jr/[repositories]/issues">
@@ -24,17 +24,16 @@
 
 ## 📝 Sumário
 
-- [Sobre o Projeto](#%EF%B8%8Fsobre-o-projeto)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Funcionalidades](#-funcionalidades)
-- [Requisitos](#-requisitos)
-- [Instalação](#-instalação)
-- [Diagrama de Fluxo de Processo](#-diagrama-de-fluxo-de-processo)
-- [Scripts Disponíveis](#-scripts-disponíveis)
-- [Estrutura de Pastas](#-estrutura-de-pastas)
-- [Contribuindo](#-contribuindo)
-- [Licença](#-licença)
-- [Contato](#-contato)
+- [🛠️ Sobre o Projeto](#sobre-o-projeto)
+- [🧰 Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [✨ Funcionalidades](#funcionalidades)
+- [📋 Requisitos](#requisitos)
+- [🎨 UI e Estilização](#ui-e-estilização)
+- [🚀 Instalação](#instalacao)
+- [📊 Diagrama de Fluxo de Processo](#diagrama-de-fluxo-de-processo)
+- [📁 Estrutura de Pastas](#estrutura-de-pastas)
+- [📄 Licença](#licenca)
+- [📧 Contato](#contato)
 
 ## 🛠️Sobre o Projeto
 
@@ -59,6 +58,40 @@ Descrição do projeto que está sendo desenvoido
 - [Python 3](https://www.python.org/downloads/release/python-315/)
 - [Node.js 14 ou superior](https://nodejs.org/pt/blog/release/v14.17.3)
 - [PostgreSQL](https://www.postgresql.org/)
+
+## 🎨 UI e Estilização
+
+O template visual completo do sistema está disponível no [Figma](https://www.figma.com/...) – com layout responsivo, paleta de cores personalizada e tipografia consistente.
+
+### 🔤 Fonte
+
+* **Roboto**, sans-serif
+
+### 🌈 Paleta de Cores
+
+```css
+--bg-color:           #F9FAFB;
+--bg-modal-color:     #08070880;
+--text-color:         #2C3E50;
+--btn-color:          #4A90E2;
+--btn-hover-color:    #336FAB;
+--border-color:       #D8DDE2;
+
+/* Status */
+--danger:             #F43F5E;
+--warning:            #F59E0B;
+--success:            #10B981;
+--info:               #3B82F6;
+--white:              #ffffff;
+
+/* Aliases */
+--primary-color:         var(--primary-500);
+--primary-dark-color:    var(--neutral-800);
+--success-color:         var(--success);
+--error-color:           var(--danger);
+--info-color:            var(--info);
+--warning-color:         var(--warning);
+```
 
 ## 🚀 Instalação
 
