@@ -115,7 +115,7 @@ Na pasta `backend`, você pode rodar:
 - `python manage.py runserver`: Inicia o servidor Django.
 
 ## 🧭 Diagrama de Fluxo de Processo
-> Link para gerar mermaid https://gitdiagram.com/
+> Link para gerar mermaid https://gittodiagram.com/
 ```mermaid
 flowchart TD
     %% Content Layer: Markdown Files
